@@ -1,0 +1,3 @@
+Daftar proyek it upf yang harus dicapai tahun 2020:
+- pembuatan aplikasi rekap cetak laporan 
+- pembuatan aplikasi rekaman alat
